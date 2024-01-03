@@ -1,0 +1,46 @@
+{
+    "personalInfo": {
+      "firstName": "",
+      "lastName": "",
+      "profession": "",
+      "city": "",
+      "state": "",
+      "pincode": "",
+      "phoneNumber": "",
+      "emailId": ""
+    },
+    "careerObjective": "",
+    "education": {
+      "collegeName": "",
+      "collegeLocation": "",
+      "degree": "",
+      "graduationSt": "",
+      "graduationEnd": ""
+    },
+    "workExperience": [
+      {
+        "jobTitle": "",
+        "companyName": "",
+        "workCountry": "",
+        "workState": "",
+        "workCity": "",
+        "workStart": "",
+        "workEnd": ""
+      },
+      {
+        "jobTitle": "",
+        "companyName": "",
+        "workCountry": "",
+        "workState": "",
+        "workCity": "",
+        "workStart": "",
+        "workEnd": ""
+      }
+    ],
+    "skills": ["", "", "", "","",""],
+    "certification": {
+      "certificationName": "",
+      "certificationAbout": ""
+    }
+}
+  

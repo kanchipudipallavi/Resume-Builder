@@ -1,0 +1,14 @@
+::selection{background-color: lightgreen;color:black;}
+.br_gray{border: 2px solid darkgray;}
+.br_green{border: 2px solid green;}
+.br_yellow{border: 2px solid yellow;}
+.head-txt{font-size: 7rem;color:#000F55;word-wrap: break-word;font-family: 'Kalam', cursive;
+/* text-shadow: 4px 4px 2px rgba(130,220,173,0.6); */
+}
+.footer-ul li{word-spacing: 1rem;}
+/*Mobile*/
+@media (max-width:767px) {
+    .head-txt{font-size:2rem !important;text-align: center !important;}
+}
+
+
